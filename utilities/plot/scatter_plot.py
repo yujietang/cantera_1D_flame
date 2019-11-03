@@ -1,4 +1,4 @@
-#Sat Dec 15 15:50:09 CST 2018 by ZX
+#modified from https://github.com/ZX114 by ZX
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib
